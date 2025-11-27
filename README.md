@@ -35,4 +35,4 @@ A classic Snakes and Ladders game built with HTML, CSS, and JavaScript. Play wit
 
 ## Credits
 
-Developed by Yash Kumar Saini @ 2023
+Developed by Ihsan Saif @ 2025
